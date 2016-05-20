@@ -1,0 +1,25 @@
+{
+  "_comment": [
+     "config.json: For Cdemo example",
+     "Modification History:",
+     "18apr16,m_h   Initial version"
+     ],
+  "icon": "images/workbench-icon_20x20.png",
+  "name": "C-Demo",
+  "description":"A C language example program for VxWorks",
+  "tags": [
+     "vxworks-7"
+  ],
+  "lang": "C",
+  "cmds": {
+     "clone":"prjClone.sh -cfg %config% -prj %dest%"
+  },
+  "doc": "docs/description.md",
+  "visibility": "local",
+  "executable": "bin/%projname%",
+  "type": "application",
+  "project_data": {
+    "init_clone":
+        { "fetch": { "scm":"git", "url":"http://stash.wrs.com/scm/pubsdkex/vxw-cdemo-app.git" } }
+  }
+}
