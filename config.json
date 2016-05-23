@@ -7,6 +7,12 @@
   "icon": "images/workbench-icon_20x20.png",
   "name": "C-Demo",
   "description":"A C language example program for VxWorks",
+  "license": [
+     {
+     "type": "Apache-2.0",
+     "url": "https://spdx.org/licenses/Apache-2.0.html"
+     }
+   ],
   "tags": [
      "vxworks-7"
   ],
