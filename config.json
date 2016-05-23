@@ -9,8 +9,8 @@
   "description":"A C language example program for VxWorks",
   "license": [
      {
-     "type": "Apache-2.0",
-     "url": "https://spdx.org/licenses/Apache-2.0.html"
+     "type": "BSD-3-Clause",
+     "url": "http://spdx.org/licenses/BSD-3-Clause.html"
      }
    ],
   "tags": [
