@@ -7,6 +7,7 @@
   "icon": "images/workbench-icon_20x20.png",
   "name": "C-Demo",
   "description":"A C language example program for VxWorks",
+  "key": "vxw-cdemo-app",
   "license": [
      {
      "type": "BSD-3-Clause",
