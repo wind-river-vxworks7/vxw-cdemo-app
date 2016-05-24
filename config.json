@@ -27,6 +27,6 @@
   "type": "application",
   "project_data": {
     "init_clone":
-        { "fetch": { "scm":"git", "url":"git@github.com:wind-river-vxworks7/vxw-cdemo-app.git" } }
+        { "fetch": { "scm":"git", "url":"https://github.com/wind-river-vxworks7/vxw-cdemo-app.git" } }
   }
 }
